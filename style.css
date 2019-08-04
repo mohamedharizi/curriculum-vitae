@@ -1,0 +1,141 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+
+
+body{
+
+background-image: url(image-de-fond.jpg);
+
+
+ }
+
+.photo{
+height: 10rem;
+float: right;
+float: top;
+margin-top: 0.4rem;
+padding-bottom:2rem;
+
+
+
+}
+
+header{
+    
+    height: 10rem;
+    background-color:  	#008B8B;
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.5rem;
+    border: solid black;
+    margin-top: 2rem;
+ }
+
+
+
+
+.section1{
+    
+    padding: 2rem;
+    background-color: #4682B4	;
+    width: 50%;
+    border: solid black;
+    margin-top: 1rem;
+}
+
+
+
+
+.etude1{
+    background-color:  	#00BFFF;
+    border: solid black;
+    margin: 1rem;
+    text-align: center;
+}
+
+.etude2{
+    background-color:  	#00BFFF;
+    border: solid black;
+    margin: 1rem;
+    text-align: center;
+}
+
+.etude3{
+
+    background-color:  	#00BFFF;
+    border: solid black;
+    margin: 1rem;
+    text-align: center;
+}
+
+
+
+.etude4{
+
+    background-color:  	#00BFFF;
+    border: solid black;
+    margin: 1rem;
+    text-align: center;
+}
+
+
+
+.skills{
+    padding: 2rem;
+    background-color: #1E90FF;
+    margin-left: 50%;
+    text-align: center;
+    font-size: 1.5rem;
+    border: solid black;
+    margin-top: 1rem;
+    
+  
+
+
+}
+
+.section2{
+    padding: 2rem;
+    background-color: #4682B4;
+    width: 50%;
+    border: solid black;
+    margin-top: 1rem;
+
+}
+
+.tps{
+
+    background-color:  	#00BFFF;
+    border: solid black;
+    margin: 1rem;
+    text-align: center;
+
+}
+
+
+.traffic{
+
+    background-color:  	#00BFFF;
+    border: solid black;
+    margin: 1rem;
+    text-align: center;
+
+
+
+}
+
+
+footer{
+    padding: 2rem;
+    background-color: #1E90FF;
+    margin-left: 50%;
+    font-size: 1rem;
+    border: solid black;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    
+}
+
+
